@@ -1,0 +1,10 @@
+.git
+.gitignore
+.lovable
+node_modules
+npm-debug.log
+.env.local
+.env.*.local
+wrangler.jsonc
+bunfig.toml
+*.lock
